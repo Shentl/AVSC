@@ -1,0 +1,20 @@
+                   precision    recall  f1-score   support
+
+          airport       0.78      0.70      0.74       281
+              bus       0.89      0.79      0.84       327
+            metro       0.76      0.88      0.81       360
+    metro_station       0.78      0.75      0.76       386
+             park       0.95      0.77      0.85       386
+    public_square       0.66      0.60      0.63       387
+    shopping_mall       0.74      0.74      0.74       387
+street_pedestrian       0.62      0.71      0.66       421
+   street_traffic       0.82      0.89      0.85       402
+             tram       0.70      0.80      0.75       308
+
+         accuracy                           0.76      3645
+        macro avg       0.77      0.76      0.76      3645
+     weighted avg       0.77      0.76      0.76      3645
+
+  
+accuracy: 0.762
+overall log loss: 0.697
